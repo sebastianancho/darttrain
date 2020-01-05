@@ -1,2 +1,2 @@
 # darttrain
-Entrenamiento Dart
+Entrenamiento para Dart
