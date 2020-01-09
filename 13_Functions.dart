@@ -1,6 +1,5 @@
 //
 
-
 const Map<int,String> nobleGases = {
     2: 'helium',
     10: 'neon',
